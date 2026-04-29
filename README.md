@@ -4,7 +4,7 @@ Fast microservice for generating an electronic patient card.
 
 ## Features
 - One request → one patient card
-- JSON + PDF output
+- JSON + PDF output 
 - No database
 - No data storage
 
