@@ -1,6 +1,6 @@
 {
   "name": "med-patient-card",
-  "version": "1.0.0",
+  "version": "1.0.0", 
   "type": "module",
   "description": "Fast electronic patient card generator (PDF + JSON)",
   "scripts": {
